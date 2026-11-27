@@ -1,0 +1,5 @@
+packages:
+  - "apps/*"
+  - "packages/*"
+minimumReleaseAgeExclude:
+  - eslint-config-prettier@10.1.9

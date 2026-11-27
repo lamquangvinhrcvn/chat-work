@@ -1,0 +1,6 @@
+pnpm-lock.yaml
+.codegraph/
+**/dist/
+**/.nuxt/
+**/.output/
+**/coverage/
